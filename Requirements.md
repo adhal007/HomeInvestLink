@@ -16,7 +16,7 @@
        - factor in global indexes for real estate market to evaluate value in the near future.
 
    - **User policy and contractual obligations**
-     - Define requirements for eligible investors
+     - investor eligibility
      - credit score evaluation
      - banking account verification
      - transparency and privacy of users' financial documents
